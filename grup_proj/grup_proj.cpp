@@ -1,3 +1,5 @@
+/*  some strange shit code for test   */
+
 #include<iostream>
 
 
